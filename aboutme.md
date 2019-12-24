@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Ahh......
 ---
 
 My name is Shuo Han. I have the following qualities:
