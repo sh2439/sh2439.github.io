@@ -6,6 +6,8 @@ title: Shuo Han
 # Short description of your site
 description: It's my personal website
 
+paginate_path: "/blog/page:num/"
+
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
@@ -21,13 +23,15 @@ description: It's my personal website
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Blog: "https://sh2439.github.io/blog/"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Pytorch Deep Learning Projects: "https://sh2439.github.io/pytorch_proj/"
-  Author's home: "http://sh2439.github.io"
+  CV/Resume: "Resume_shuo.pdf"
   Misc:
     - Basketball: "basketball"
-  CV/Resume: "Resume_shuo.pdf"
+  
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
