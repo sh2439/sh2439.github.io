@@ -5,8 +5,8 @@ subtitle: Basketball
 ---
 
 - I'm not professional, but I'm a huge fan.
-- From 2015 to 2016, I was a member of the **Basketball Team of Tongji University**. I participated in the 18th CUBA (Chinese University Basketball Association) Tournament in Shanghai.
-- At Cornell, our team won the 2nd place in the intramural basketball tournament in 2019.
+- From 2015 to 2016, I was a member of the [**Basketball Team of Tongji University**](img/basketball/tongji_basketball.jpg). I participated in the 18th CUBA (Chinese University Basketball Association) Tournament in Shanghai.
+- At Cornell, our [team](img/basketball/cornell_basketball.jpeg) won the 2nd place in the intramural basketball tournament in 2019.
 
 ### My Basketball Highlight (2018-2019 at Cornell)
 
