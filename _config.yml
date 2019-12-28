@@ -22,19 +22,18 @@ paginate_path: "/blog/page:num/"
 
 # List of links in the navigation bar
 navbar-links:
+  CV/Resume: "Resume_shuo.pdf"
   Blog: "https://sh2439.github.io/blog/"
   Projects:
     - Floc App: ""
     - Pytorch Deep Learning: "https://sh2439.github.io/pytorch_proj/"
-    - ML:
-      - CS4780: ""
-      - CS2110: ""
+    - AI Flappy Bird: "https://sh2439.github.io/AI_Flappy_Bird/"
+    
 
   Resources:
-    - Algorithms (Coursera Stanford Specialization): "https://sh2439.github.io/Algo_stanford/"
-    - Reinforcement Learning (Coursera Specialization): ""
+    - Algorithms (Coursera Specialization): "https://sh2439.github.io/Algo_stanford/"
+    - Reinforcement Learning (Coursera Specialization): "https://sh2439.github.io/RL-Coursera/"
 
-  CV/Resume: "Resume_shuo.pdf"
   Misc:
     - Basketball: "basketball"
   
