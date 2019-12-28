@@ -22,11 +22,18 @@ paginate_path: "/blog/page:num/"
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   Blog: "https://sh2439.github.io/blog/"
+  Projects:
+    - Floc App: ""
+    - Pytorch Deep Learning: "https://sh2439.github.io/pytorch_proj/"
+    - ML:
+      - CS4780: ""
+      - CS2110: ""
+
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Pytorch Deep Learning Projects: "https://sh2439.github.io/pytorch_proj/"
+    - Algorithms (Coursera Stanford Specialization): "https://sh2439.github.io/Algo_stanford/"
+    - Reinforcement Learning (Coursera Specialization): ""
+
   CV/Resume: "Resume_shuo.pdf"
   Misc:
     - Basketball: "basketball"
@@ -78,10 +85,10 @@ social-network-links:
   email: "sh2439@cornell.edu"
   # facebook: deanattali
   github: sh2439
+  linkedin: shuohan-sh2439
   instagram: shuo_123
   # twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -102,7 +109,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
