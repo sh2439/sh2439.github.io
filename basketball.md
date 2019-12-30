@@ -9,7 +9,7 @@ subtitle: Basketball
 - At Cornell, our [team](img/basketball/cornell_basketball.jpeg) won the 2nd place in the intramural basketball tournament in 2019.
 
 ### My Basketball Highlight (2018-2019 at Cornell)
-
+If YouTube is not working in your region, please use this [link](https://www.bilibili.com/video/av81081886/).
 <p>
     <iframe width="600" height = "400" src="https://www.youtube.com/embed/uz4xyalx8dU" alt = "Basketball Clips">
 

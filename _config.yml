@@ -25,7 +25,7 @@ navbar-links:
   CV/Resume: "Resume_shuo.pdf"
   Blog: "https://sh2439.github.io/blog/"
   Projects:
-    - Floc App: ""
+    - Floc App: "https://github.com/AguaClara/floc_app"
     - Pytorch Deep Learning: "https://sh2439.github.io/pytorch_proj/"
     - AI Flappy Bird: "https://sh2439.github.io/AI_Flappy_Bird/"
     
