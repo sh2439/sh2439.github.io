@@ -4,7 +4,7 @@ title: Shuo Han
 subtitle: About me
 use-site-title: true
 ---
-<center>**Contact me:** sh2439 [at] cornell [dot] edu</center>
+<center><b>Contact me:</b> sh2439 [at] cornell [dot] edu</center>
 
 Hi, I'm Shuo Han (韩朔 in Chinese). I'm currently looking for a full-time internship till August 2019.
 
