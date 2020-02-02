@@ -23,10 +23,11 @@ paginate_path: "/blog/page:num/"
 # List of links in the navigation bar
 navbar-links:
   CV/Resume: "Resume_shuo.pdf"
-  Blog: "https://sh2439.github.io/blog/"
+  #Blog: "https://sh2439.github.io/blog/"
   Projects:
     - Floc App: "https://github.com/AguaClara/floc_app"
     - Pytorch Deep Learning: "https://sh2439.github.io/pytorch_proj/"
+    - Pytorch Reinforcement Learning: "https://sh2439.github.io/Reinforcement-Learning-Pytorch/"
     - AI Flappy Bird: "https://sh2439.github.io/AI_Flappy_Bird/"
     
 
@@ -55,7 +56,7 @@ navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
-link-col: "#008AFF"
+link-col: "#ab9704"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
