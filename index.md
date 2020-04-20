@@ -18,7 +18,7 @@ In December 2018, I received my Master of Engineering degree in environmental en
 **Research Assistant**, Cornell Autonomous Driving Group, Cornell University<br>
 Mar 2019 - Nov 2019
 
-**Team Lead/Grader**, AugaClara Program, Cornell University<br>
+**Team Lead/Grader**, AguaClara Program, Cornell University<br>
 Jan 2018 - Dec 2018
 
 ## Education
