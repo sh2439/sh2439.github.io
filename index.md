@@ -6,7 +6,7 @@ use-site-title: true
 ---
 <center><b>Contact me:</b> sh2439 [at] cornell [dot] edu</center>
 
-Hi, I'm Shuo Han (韩朔 in Chinese). I'm currently looking for a full-time internship till August 2019.
+Hi, I'm Shuo Han (韩朔 in Chinese). I'm currently looking for a full-time internship till August 2020.
 
 From March 2019 to November 2019, I was fortunate to work as a research assistant at Cornell Autonomous Driving Group and the Department of Computer Science, where I was advised by [Prof. Kilian Q. Weinberger](http://kilian.cs.cornell.edu/) and [Prof. Wei-Lun Chao](http://www-scf.usc.edu/~weilunc/index.html). My research focus is on the stereo depth estimation and amodal instance segmentation.
 
