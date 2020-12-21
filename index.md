@@ -12,6 +12,8 @@ From March 2019 to November 2019, I was fortunate to work as a research assistan
 
 In December 2018, I received my Master of Engineering degree in environmental engineering at [Cornell University](https://www.cornell.edu/), under the supervision of [Dr. Monroe Weber-Shirk](https://www.cee.cornell.edu/faculty-directory/monroe-weber-shirk-0). In [AguaClara Cornell](http://aguaclara.cornell.edu/), we utilized computer vision and implemented an app to detect flocs in the water, facilitating the municipal water treatment process. I received a Bachelor of Engineering degree in environmental engineering at [Tongji University](https://en.tongji.edu.cn/) in June 2017 ([C.V.](https://sh2439.github.io/Resume_shuo.pdf)).
 
+Also, I play [basketball](https://sh2439.github.io/basketball/)!
+
 
 ## Experiences
 
@@ -22,6 +24,9 @@ Mar 2019 - Nov 2019
 Jan 2018 - Dec 2018
 
 ## Education
+
+**Cornell Tech, Cornell University**, New York City, U.S.<br>
+M.Eng in Computer Science | Aug 2020 - Present
 
 **Cornell University**, Ithaca, New York, U.S.<br>
 M.Eng in Environmental Engineering | Aug 2017 - Dec 2018
