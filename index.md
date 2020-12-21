@@ -31,7 +31,7 @@ Jan 2018 - Dec 2018
 |-|-|-|
 |<img src="img/school_logo/cornell.png"> width = "200"| **Cornell Tech, Cornell University**, New York City, U.S.<br> M.Eng in Computer Science, Aug 2020 - Present| -->
 
-<img align="left" src="img/school_logo/cornell.png" width="70">  **Cornell Tech, Cornell University**, New York City, U.S.<br>
+<img align="middle" src="img/school_logo/cornell.png" width="70">  **Cornell Tech, Cornell University**, New York City, U.S.<br>
  M.Eng in Computer Science | Aug 2020 - Present <br>
 
 
